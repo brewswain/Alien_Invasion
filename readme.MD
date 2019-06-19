@@ -17,4 +17,9 @@ This project will be using Python Crash Course by Eric Matthes to teach me the b
 - Alien design
 - Alien movement
 - Scoring
+---
+
+### Unfortunately, I did not have the time to implement the 1-Up reward, as I am beginning work on learning Django.
 - Potentially have 1-UP rewards for score
+
+
